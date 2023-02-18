@@ -1,7 +1,9 @@
 - Hi, I’m @SoshJam.
 - I'm a student at the University of Utah.
-- I’m interested in computer programming, web development, and game development.
-- I’m currently learning ReactJS to take my web development to the next level.
+- I'm currently doing freelance Shopify development.
+- I’m interested in computer programming and web development.
+- I’m currently learning how to better utilize Shopify's development tools.
+- I'm also working on a video game, you can check it out on Steam [here.](https://store.steampowered.com/app/1937960/Topspin/)
 - Email me at soshjam@soshjam.com to collaborate or contact me.
 
 <!---
